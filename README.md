@@ -1,4 +1,4 @@
-# Brainstorm
+# Brainstorm do projeto connected-gamers.
 
 ### Este espaço serve para colocarmos ideias do que queremos em desenvolvimento.
 ***
