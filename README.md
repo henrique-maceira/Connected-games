@@ -1,6 +1,6 @@
 # Brainstorm
 
-### Este espaço serve para colocarmos ideias do que queremos colocar em desenvolvimento.
+### Este espaço serve para colocarmos ideias do que queremos em desenvolvimento.
 ***
 
 Ideias:
